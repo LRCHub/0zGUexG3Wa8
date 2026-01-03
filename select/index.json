@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "多元幸福論",
+  "base_artist": "CUTIE STREET",
+  "createdAt": "2026-01-03T13:58:04.718525Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "多元幸福論",
+      "artist": "CUTIE STREET",
+      "has_synced": false,
+      "path": "select/pl_01_多元幸福論_CUTIE_STREET.txt"
+    }
+  ]
+}
